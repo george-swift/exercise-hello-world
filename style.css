@@ -7,3 +7,9 @@
   height: 100vh;
   background-color: #000;
 }
+
+.header-text {
+  font-family: "Lucida Sans", "Lucida Grande", Verdana, sans-serif;
+  font-size: 25px;
+  color: #fff;
+}
