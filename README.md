@@ -17,8 +17,8 @@
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/george-swift)
-- Twitter: [@twitterhandle](https://twitter.com/_pragmaticdev)
+- GitHub: [@george-swift](https://github.com/george-swift)
+- Twitter: [@\_\_pragmaticdev](https://twitter.com/_pragmaticdev)
 
 ## 🤝 Contributing
 
